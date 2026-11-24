@@ -45,12 +45,8 @@ A selection of projects I'm building and experimenting with:
 - **Automation Tools** — Applications that streamline repetitive workflows.
 - **Data Applications** — Tools for working with, analysing, and presenting data.
 
-*Project links will be added here as repositories are published.*
 
 ## Current Focus
 
 Developing practical AI-powered applications, understanding the architecture behind LLM-based systems, and building automation that is useful beyond a demo.
 
-## Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
