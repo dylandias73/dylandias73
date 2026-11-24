@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="profile-header.gif" width="100%" alt="Dylan Dias — AI Automation Engineer" />
+  <img src="profile-header.svg" width="100%" alt="Dylan Dias — AI Automation Engineer" />
 </p>
 
-<h1 align="center">Dylan Dias</h1>
+<h1>Dylan Dias</h1>
 
-<p align="center">
+<p>
   <strong>AI Automation Engineer</strong><br />
   Building practical applications with data, software, and AI.
 </p>
